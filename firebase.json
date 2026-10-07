@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ctadmobl-project",
+          "appId": "1:356907663792:android:7af9019a01fcd155cf9675",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ctadmobl-project",
+          "configurations": {
+            "android": "1:356907663792:android:7af9019a01fcd155cf9675",
+            "ios": "1:356907663792:ios:0d7f1b005c62eea5cf9675",
+            "macos": "1:356907663792:ios:0d7f1b005c62eea5cf9675",
+            "web": "1:356907663792:web:9aeab7730cc7251ccf9675",
+            "windows": "1:356907663792:web:8b2f9147a4c794eccf9675"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

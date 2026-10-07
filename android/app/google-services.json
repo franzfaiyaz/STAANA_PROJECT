@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356907663792",
+    "project_id": "ctadmobl-project",
+    "storage_bucket": "ctadmobl-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356907663792:android:7af9019a01fcd155cf9675",
+        "android_client_info": {
+          "package_name": "com.example.ctadmobl_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawrXF2vgmdgTtP3ZfXcUfOUgY244ulN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
